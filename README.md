@@ -49,7 +49,7 @@ make
 - 包含 CUDA 压力测试程序，用于测试 GPU 负载
 
 ### CUDA 矩阵乘法工具
-
+- **共享内存优化实现运行速度比cuBLAS快**
 - 支持大规模矩阵乘法计算
 - 提供多种实现方式：
   - CPU 实现
@@ -77,7 +77,6 @@ cd gpu_monitors
 ```
 
 ### CUDA 矩阵乘法工具
-
 ```bash
 cd gpu_test
 
