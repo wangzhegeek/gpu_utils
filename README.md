@@ -105,4 +105,7 @@ cd gpu_test
 
 ## 许可证
 
-本项目采用 MIT 许可证。详情请参阅 [LICENSE](LICENSE) 文件。 
+本项目采用 MIT 许可证。详情请参阅 [LICENSE](LICENSE) 文件。
+
+## Tips
+当然以上都是Cursor实现的，这个项目只是一个测试，但是结果很惊艳，渺小的人类 - -
