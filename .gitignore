@@ -20,15 +20,14 @@ gpu_test/matrix_multiply
 *.fatbin
 
 # 编辑器和IDE文件
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/
 .idea/
 *.swp
 *.swo
 *~
+
+# GitHub相关文件
+.github/
 
 # 操作系统生成的文件
 .DS_Store
